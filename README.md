@@ -13,3 +13,16 @@ Priority (Low, Medium, High)
 * Responsive Design: User-friendly interface optimized for all devices.
 * Error Handling: Proper feedback for errors (e.g., invalid inputs, missing fields).
 
+
+ ### Tech Stack
+* Frontend
+* HTML
+* CSS
+* JavaScript (Vanilla JS)
+Backend
+* Node.js
+* Express.js
+Database
+MongoDB =
+
+
