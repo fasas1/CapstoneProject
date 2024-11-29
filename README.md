@@ -19,10 +19,9 @@ Priority (Low, Medium, High)
 * HTML
 * CSS
 * JavaScript (Vanilla JS)
-Backend
+
 * Node.js
 * Express.js
-Database
-MongoDB =
+MongoDB 
 
 
